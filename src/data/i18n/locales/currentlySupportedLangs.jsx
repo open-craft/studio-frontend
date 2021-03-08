@@ -5,6 +5,7 @@ import frData from 'react-intl/locale-data/fr';
 import zhData from 'react-intl/locale-data/zh';
 
 import './ar.json';
+import './en_GB.json';
 import './es_419.json';
 import './fr.json';
 import './zh_CN.json';
@@ -20,6 +21,7 @@ import './zh_CN.json';
 const localeDataMap = {
   'ar': arData,
   'en': enData,
+  'en-gb': enData,
   'es-419': esData,
   'fr': frData,
   'zh-cn': zhData,
